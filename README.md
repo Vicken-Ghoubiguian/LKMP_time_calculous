@@ -6,4 +6,4 @@ Linux kernel module to to use the [time_calculous](https://github.com/Vicken-Gho
 
 ## some sources
 
--* [The Linux Kernel Module Programming Guide](https://sysprog21.github.io/lkmpg/),
+- [The Linux Kernel Module Programming Guide](https://sysprog21.github.io/lkmpg/),
